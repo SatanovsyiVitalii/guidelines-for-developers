@@ -19,7 +19,7 @@
 13. Version control system: git
 14. Service providing repositories (GitHub, GitLab, Bitbucket)
 
-## Tasks which must be clear how to implement
+## Tasks, which must be clear how to implement
 
 1. Basic configuring of React app manually (without create-react-app). With maintaince of svg, css modules (or styled components), images, redux, redux-think (or saga), react-router, tests (integration, unit, functional). Also App must be structured in the way, counting best practices
 2. Transliteration
@@ -30,6 +30,11 @@
 7. Creating adoptive layouts (using mediaqueries)
 8. Creating adoptive tables
 9. Deploying the app on Heroku
+
+## Test task for implementing
+
+https://docs.google.com/document/d/1wS4GM9FWbJekwcz7Dx_NRY5sLxCTddY3aX4Rb_pCUn8/edit?usp=sharing
+
 <!-- # Web course Magisoft Solutions
 
 /lectures - лекции к занятиям
