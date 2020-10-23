@@ -35,6 +35,33 @@
 
 https://docs.google.com/document/d/1wS4GM9FWbJekwcz7Dx_NRY5sLxCTddY3aX4Rb_pCUn8/edit?usp=sharing
 
+## JS topics, which must be clear
+
+### Objects: the basics
+
+1. [Objects](https://javascript.info/object)
+2. [Object references and copying](https://javascript.info/object-copy)
+3. [Garbage collection](https://javascript.info/garbage-collection)
+4. [Object methods, "this"](https://javascript.info/object-methods)
+5. [Constructor, operator "new"](https://javascript.info/constructor-new)
+6. [Symbol type](https://javascript.info/symbol)
+7. [Object to primitive conversion](https://javascript.info/object-toprimitive)
+
+### Data types
+
+1. [Methods of primitives](https://javascript.info/primitives-methods)
+2. [Numbers](https://javascript.info/number)
+3. [Strings](https://javascript.info/string)
+4. [Arrays](https://javascript.info/array)
+5. [Array methods](https://javascript.info/array-methods)
+6. [Iterables](https://javascript.info/iterable)
+7. [Map and Set](https://javascript.info/map-set)
+8. [WeakMap and WeakSet](https://javascript.info/weakmap-weakset)
+9. [Object.keys, values, entries](https://javascript.info/keys-values-entries)
+10. [Destructuring assignment](https://javascript.info/destructuring-assignment)
+11. [Date and time](https://javascript.info/date)
+12. [JSON methods, toJSON](https://javascript.info/json)
+
 <!-- # Web course Magisoft Solutions
 
 /lectures - лекции к занятиям
